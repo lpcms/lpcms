@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td align="right"><b>Cloud &amp; DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,kubernetes,nginx,ubuntu,redhat,windows" alt="AWS, Cloudflare, Vercel, Kubernetes, Nginx, Ubuntu, Red Hat, Windows"/></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,docker,kubernetes,nginx,ubuntu,redhat,windows" alt="AWS, Cloudflare, Vercel, Docker, Kubernetes, Nginx, Ubuntu, Red Hat, Windows"/></td>
   </tr>
   <tr>
     <td align="right"><b>Tools</b></td>
