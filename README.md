@@ -107,7 +107,7 @@
 
 ### ⚡ How we work
 
-| | |
+| Principle | In practice |
 |---|---|
 | 🧱 **Clean architecture** | SOLID, modular design, readable code that is easy to change |
 | 🛡️ **Type-safe & secure** | TypeScript-first, input validation, OWASP-aware APIs |
