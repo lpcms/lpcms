@@ -174,10 +174,11 @@
   </picture>
 </p>
 
-<h3 align="center">🤝 Connect</h3>
+<!-- Connect: hidden until the social profiles are filled in -->
+<!-- <h3 align="center">🤝 Connect</h3> -->
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <a href="https://www.lpcms.net"><img src="https://img.shields.io/badge/Website-e8231d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> -->
-  <a href="https://www.linkedin.com/in/lpcms-undefined-1298a9312/"><img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn"/></a>
-  <a href="https://x.com/lpcms_net"><img src="https://skillicons.dev/icons?i=twitter" height="28" alt="X / Twitter"/></a>
-</p>
+  <!-- <a href="https://www.linkedin.com/in/lpcms-undefined-1298a9312/"><img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn"/></a> -->
+  <!-- <a href="https://x.com/lpcms_net"><img src="https://skillicons.dev/icons?i=twitter" height="28" alt="X / Twitter"/></a> -->
+<!-- </p> -->
