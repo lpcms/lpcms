@@ -1,6 +1,6 @@
-<a href="https://www.lpcms.net">
+<!-- <a href="https://www.lpcms.net"> -->
   <img src="assets/banner-v4.svg" width="100%" alt="LPCMS — full-stack & web development: a pixel developer knocks TypeScript, JavaScript, Python, PHP, SQL, Rust and Solidity out of blocks"/>
-</a>
+<!-- </a> -->
 
 <h2 align="center">Full-Stack &amp; Web Development, built on best practices</h2>
 
@@ -10,9 +10,11 @@
   Clean architecture, type safety, tests and automated delivery are the default, not an extra.
 </p>
 
+<!--
 <p align="center">
   <a href="https://www.lpcms.net"><img src="https://img.shields.io/badge/lpcms.net-e8231d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="lpcms.net"/></a>
 </p>
+-->
 
 ### 🛠️ Tech stack
 
@@ -129,6 +131,11 @@
     <td>Pine&nbsp;Script</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/lpcms/strategy_analizatorb_tw"><b>strategy_analizatorb_tw</b></a></td>
+    <td>AnalizatorB — TradingView drawdown-zone strategy: buys three zones below the last high and takes profit back at it; backtested on BTC/USDT (5 years) and ETH/USDT (9 years)</td>
+    <td>Pine&nbsp;Script, Python</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/lpcms/btc-liquidation"><b>btc&#8209;liquidation</b></a></td>
     <td>Real-time BTCUSDT perpetual chart with every liquidation drawn as a bubble at its price and time</td>
     <td>TypeScript</td>
@@ -149,6 +156,11 @@
     <td>TypeScript</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/lpcms/youtube-analyzer"><b>youtube&#8209;analyzer</b></a></td>
+    <td>Every Video &amp; Short of any YouTube channel in one sortable table — metrics, virality score, snapshot comparison and Excel export</td>
+    <td>TypeScript</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/lpcms/gocar"><b>gocar</b></a></td>
     <td>Commercial car rental &amp; booking platform</td>
     <td>TypeScript</td>
@@ -165,7 +177,7 @@
 <h3 align="center">🤝 Connect</h3>
 
 <p align="center">
-  <a href="https://www.lpcms.net"><img src="https://img.shields.io/badge/Website-e8231d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <!-- <a href="https://www.lpcms.net"><img src="https://img.shields.io/badge/Website-e8231d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> -->
   <a href="https://www.linkedin.com/in/lpcms-undefined-1298a9312/"><img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn"/></a>
   <a href="https://x.com/lpcms_net"><img src="https://skillicons.dev/icons?i=twitter" height="28" alt="X / Twitter"/></a>
 </p>
