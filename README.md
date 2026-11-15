@@ -126,23 +126,18 @@
     <th align="left">Stack</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/lpcms/indicator_boxinside_tw"><b>indicator_boxinside_tw</b></a></td>
-    <td>BoxInside — per-candle volume profile for TradingView with POC and VAH / VAL value-area borders, ported from MetaTrader 4</td>
-    <td>Pine&nbsp;Script</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/lpcms/strategy_analizatorb_tw"><b>strategy_analizatorb_tw</b></a></td>
     <td>AnalizatorB — TradingView drawdown-zone strategy: buys three zones below the last high and takes profit back at it; backtested on BTC/USDT (5 years) and ETH/USDT (9 years)</td>
     <td>Pine&nbsp;Script, Python</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/lpcms/btc-liquidation"><b>btc&#8209;liquidation</b></a></td>
-    <td>Real-time BTCUSDT perpetual chart with every liquidation drawn as a bubble at its price and time</td>
-    <td>TypeScript</td>
+    <td><a href="https://github.com/lpcms/indicator_boxinside_tw"><b>indicator_boxinside_tw</b></a></td>
+    <td>BoxInside — per-candle volume profile for TradingView with POC and VAH / VAL value-area borders, ported from MetaTrader 4</td>
+    <td>Pine&nbsp;Script</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/lpcms/crypto-orderbook"><b>crypto&#8209;orderbook</b></a></td>
-    <td>Real-time crypto order book · <a href="https://crypto-orderbook-sandy.vercel.app">live demo</a></td>
+    <td><a href="https://github.com/lpcms/btc-liquidation"><b>btc&#8209;liquidation</b></a></td>
+    <td>Real-time BTCUSDT perpetual chart with every liquidation drawn as a bubble at its price and time</td>
     <td>TypeScript</td>
   </tr>
   <tr>
@@ -153,6 +148,11 @@
   <tr>
     <td><a href="https://github.com/lpcms/p2p-scanner-dex-cex"><b>p2p&#8209;scanner&#8209;dex&#8209;cex</b></a></td>
     <td>P2P price scanner across DEX &amp; CEX · <a href="https://p2p-scanner-dex-cex.vercel.app">live demo</a></td>
+    <td>TypeScript</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lpcms/crypto-orderbook"><b>crypto&#8209;orderbook</b></a></td>
+    <td>Real-time crypto order book · <a href="https://crypto-orderbook-sandy.vercel.app">live demo</a></td>
     <td>TypeScript</td>
   </tr>
   <tr>
